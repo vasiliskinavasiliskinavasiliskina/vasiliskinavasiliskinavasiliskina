@@ -58,3 +58,4 @@ RUN echo '#!/bin/bash' > /start.sh && \
     chmod +x /start.sh
 
 CMD ["/bin/bash", "/start.sh"]
+
